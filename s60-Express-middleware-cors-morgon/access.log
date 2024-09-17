@@ -1,0 +1,3 @@
+::1 - - [16/Sep/2024:14:26:58 +0000] "GET /lists HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+::1 - - [16/Sep/2024:14:27:03 +0000] "GET /getEmployees/Afghanistan/Accounting/Agender?limit=5&order=desc HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+::1 - - [16/Sep/2024:14:27:44 +0000] "GET /getEmployees/China/Human%20Resources/Male?limit=5&order=desc HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
